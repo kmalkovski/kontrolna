@@ -384,3 +384,9 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+.heading{ color: orange;}
+.block  {color: lightblue;}
+.foot {color: silver;}
+.textalign {text-align: justify;}
+.nospace {display: none;}
+.pic {background-image:url('images/demo/backgrounds/02.png');}
